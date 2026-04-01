@@ -1,13 +1,12 @@
 # Hi, I'm Jiyaro Joseph 👋
 
 Frontend Developer focused on **UI reliability, usability systems, and interaction correctness**.
-Active contributor to **RUXAILAB (Vue-based usability testing platform)**.
 
 ---
 
 ## 💫 About Me
 
-* 🔭 Contributing to **RUXAILAB**, improving UI behavior and usability workflows
+* 🔭 Contributing to **RUXAILAB** and other organizations, improving UI behavior and usability workflows
 * 🛠 Focused on **interaction bugs, event handling issues, and edge-case debugging**
 * 🧠 Interested in **UI correctness, testing, and real-world system reliability**
 
@@ -36,7 +35,8 @@ Actively working on **UI reliability and interaction correctness across filterin
 ### 🟡 FOSSASIA
 
 * **PR #918** — Fixed *broken CI badge*
-  → Replaced deprecated Travis CI with GitHub Actions for accurate build status display
+  → Replaced deprecated Travis CI with GitHub Actions for accurate build status display 
+  https://github.com/fossasia/fossasia.org/pull/918
 
 ---
 
@@ -52,7 +52,7 @@ Actively working on **UI reliability and interaction correctness across filterin
 ## 🛠 Tech Stack
 
 * Languages: JavaScript, Python
-* Frontend: Vue.js, HTML, CSS
+* Frontend: React.js, Next.js, Vue.js, HTML, CSS, Tailwind CSS
 * Tools: Git, GitHub, VS Code
 
 ---
