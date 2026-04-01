@@ -1,12 +1,10 @@
 # Hi, I'm Jiyaro Joseph 👋
 
 Frontend Developer focused on **UI reliability, usability systems, and interaction correctness**.  
-Active contributor to **RUXAILAB (Vue-based usability platform)**.
 
 ---
 
 ## 💫 About Me:
-- 🔭 Currently contributing to **RUXAILAB (Vue-based usability testing platform)**
 - 🛠 Focused on fixing **UI interaction bugs, event handling issues, and usability flaws**
 - 🎯 Goal: Build **robust, predictable frontend systems**
 - 🧠 Interested in **testing, UI correctness, and real-world edge case handling**
@@ -23,7 +21,6 @@ Active contributor to **RUXAILAB (Vue-based usability platform)**.
 
 * **PR #1997** — Fixed *incorrect redirection in issue templates*
   → Corrected broken links in `CONTRIBUTING.md`, ensuring proper navigation for bug/feature reporting
-
   https://github.com/uramakilab/remote-usability-lab/pull/1997
 
 * **PR #1984 (closed)** — Investigated *hyperlink popup overflow in editor*
@@ -36,7 +33,7 @@ Active contributor to **RUXAILAB (Vue-based usability platform)**.
 
 * **PR #918** — Fixed *broken CI badge*
   → Replaced deprecated Travis CI with GitHub Actions for correct build status display
-
+https://github.com/fossasia/fossasia.org/pull/918 
 ---
 
 
@@ -52,7 +49,7 @@ Active contributor to **RUXAILAB (Vue-based usability platform)**.
 
 ## 🛠 Tech Stack
 - Languages: JavaScript, Python  
-- Frontend: Vue.js, HTML, CSS  
+- Frontend: React.js, Next.js, Vue.js, HTML, CSS, Tailwind
 - Tools: Git, GitHub, VS Code  
 
 ---
@@ -73,6 +70,3 @@ Active contributor to **RUXAILAB (Vue-based usability platform)**.
 To contribute to production-level open source systems and deliver reliable frontend solutions.
 
 ---
-
-## 🤝 Connect
-- https://github.com/JiyaroJoseph
