@@ -6,7 +6,7 @@ Frontend Developer focused on **UI reliability, usability systems, and interacti
 
 ## 💫 About Me
 
-* 🔭 Contributing to **RUXAILAB** and other organizations, improving UI behavior and usability workflows
+* 🔭 Contributing to **RUXAILAB**, improving UI behavior and usability workflows
 * 🛠 Focused on **interaction bugs, event handling issues, and edge-case debugging**
 * 🧠 Interested in **UI correctness, testing, and real-world system reliability**
 
@@ -71,7 +71,6 @@ Currently applying for **GSoC 2026 with RUXAILAB**, focused on improving usabili
 
 ## 🤝 Connect
 
-* GitHub: https://github.com/JiyaroJoseph
 * LinkedIn: https://www.linkedin.com/in/jiyaro-joseph/
 * Medium: https://medium.com/@jiyarojoseph
 
