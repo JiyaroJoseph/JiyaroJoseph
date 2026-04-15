@@ -26,7 +26,7 @@ Actively working on **UI reliability and interaction correctness across filterin
   → Corrected broken links in `CONTRIBUTING.md`, improving developer workflow for reporting issues
   https://github.com/uramakilab/remote-usability-lab/pull/1997
 
-* **PR #1984 (investigation)** — Analyzed *hyperlink popup overflow in editor*
+* **PR #1984** — Analyzed *hyperlink popup overflow in editor*
   → Identified layout constraint issue affecting UI boundary handling and proposed fix approach
   https://github.com/uramakilab/remote-usability-lab/pull/1984
 
