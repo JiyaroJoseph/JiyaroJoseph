@@ -22,7 +22,7 @@ Actively working on **UI reliability and interaction correctness across filterin
   → Resolved click handling issue where label clicks failed to trigger dropdown (event handling flaw)
   https://github.com/uramakilab/remote-usability-lab/pull/2010
 
-* **PR #1997** *(merged)* — Fixed *incorrect redirection in issue templates*
+* **PR #1997** *(MERGED)* — Fixed *incorrect redirection in issue templates*
   → Corrected broken links in `CONTRIBUTING.md`, improving developer workflow for reporting issues
   https://github.com/uramakilab/remote-usability-lab/pull/1997
 
