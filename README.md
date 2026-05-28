@@ -34,7 +34,6 @@ Frontend Developer focused on **UI reliability, usability systems, and interacti
 
 ## 🧠 Technical Strengths
 * Frontend Debugging (DOM events, state issues, UI edge cases)
-* Vue.js fundamentals (components, reactivity, event handling)
 * Writing clean, maintainable fixes
 * Understanding usability + UX behavior
 
