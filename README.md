@@ -1,20 +1,18 @@
 # Hi, I'm Jiyaro Joseph 👋
-Full-Stack Developer focused on **UI reliability, usability systems, and real-world system design**.
+Frontend Developer focused on **UI reliability, usability systems, and interaction correctness**.
 
 ---
 
 ## 💫 About Me
-* 🔭 Contributing to **RUXAILAB** and **FOSSASIA**, improving UI behavior and usability workflows
-* 🛠 Building full-stack apps with **React, FastAPI, and Node.js**
-* 🧠 Interested in **UI correctness, accessibility, and reliable system design**
+* 🔭 Contributed to **RUXAILAB** and **FOSSASIA** — open source, UI behavior and usability workflows
+* 🛠 Focused on **interaction bugs, event handling issues, and edge-case debugging**
+* 🧠 Interested in **UI correctness, testing, and real-world system reliability**
 
 ---
 
 ## 🚀 Key Contributions
 
 ### 🟢 RUXAILAB
-Actively working on **UI reliability and interaction correctness across filtering and navigation systems**
-
 * **PR #2010** — Fixed *status filter dropdown interaction bug* (Studies page)
   → Resolved click handling issue where label clicks failed to trigger dropdown (event handling flaw)
   https://github.com/uramakilab/remote-usability-lab/pull/2010
@@ -34,29 +32,19 @@ Actively working on **UI reliability and interaction correctness across filterin
 
 ---
 
-## 🏗 Projects
-
-### DEBRIEF — Meeting Intelligence Hub
-Full-stack AI app that transforms meeting transcripts into structured intelligence.
-**Stack:** React + Vite + Tailwind CSS · FastAPI · Claude API
-Features: transcript upload, AI-powered insight extraction, contextual chatbot with citations, CSV/PDF export
-
----
-
 ## 🧠 Technical Strengths
-* Full-stack prototyping (React frontend + FastAPI/Node.js backend)
 * Frontend Debugging (DOM events, state issues, UI edge cases)
 * Vue.js fundamentals (components, reactivity, event handling)
-* AI API integration (Claude/Anthropic)
 * Writing clean, maintainable fixes
+* Understanding usability + UX behavior
 
 ---
 
 ## 🛠 Tech Stack
 * Languages: JavaScript, Python
 * Frontend: React.js, Next.js, Vue.js, HTML, CSS, Tailwind CSS
-* Backend: FastAPI, Node.js (learning)
-* Tools: Git, GitHub, VS Code, Figma
+* Learning: Node.js
+* Tools: Git, GitHub, VS Code
 
 ---
 
@@ -66,7 +54,7 @@ Features: transcript upload, AI-powered insight extraction, contextual chatbot w
 ---
 
 ## 🎯 Current Goal
-Building toward **full-stack engineering** — deepening backend skills with Node.js + Express alongside FastAPI, while shipping real projects and contributing to open source.
+Deepening full-stack skills — currently learning **Node.js** while building on my frontend foundation.
 
 ---
 
