@@ -13,7 +13,7 @@ Frontend Developer focused on **UI reliability, usability systems, and interacti
 ## 🚀 Key Contributions
 
 ### 🟢 RUXAILAB
-* **PR #2010** — Fixed *status filter dropdown interaction bug* (Studies page)
+* **PR #2010** *(MERGED)* — Fixed *status filter dropdown interaction bug* (Studies page)
   → Resolved click handling issue where label clicks failed to trigger dropdown (event handling flaw)
   https://github.com/uramakilab/remote-usability-lab/pull/2010
 * **PR #1997** *(MERGED)* — Fixed *incorrect redirection in issue templates*
