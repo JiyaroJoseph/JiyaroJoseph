@@ -44,7 +44,7 @@ An Eisenhower Matrix productivity application focused on building a reliable and
 - Responsive design and accessibility
 - Continuous feature development and refinement
 
-🌐 Live Demo: [https://your-vercel-link.vercel.app](https://eisenly-smart-to-do.vercel.app/)
+🌐 Live Demo: [https://eisenly-smart-to-do.vercel.app](https://eisenly-smart-to-do.vercel.app/)
 
 ---
 
