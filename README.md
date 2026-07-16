@@ -32,6 +32,22 @@ Frontend Developer focused on **UI reliability, usability systems, and interacti
 
 ---
 
+## 🚧 Currently Building
+
+### 🟣 Eisenly
+An Eisenhower Matrix productivity application focused on building a reliable and intuitive task management experience.
+
+**Areas of work:**
+- React architecture and component design
+- UI interaction correctness
+- State management and persistence
+- Responsive design and accessibility
+- Continuous feature development and refinement
+
+🌐 Live Demo: [https://your-vercel-link.vercel.app](https://eisenly-smart-to-do.vercel.app/)
+
+---
+
 ## 🧠 Technical Strengths
 * Frontend Debugging (DOM events, state issues, UI edge cases)
 * Writing clean, maintainable fixes
