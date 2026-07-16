@@ -10,7 +10,7 @@ Frontend Developer focused on **UI reliability, usability systems, and interacti
 
 ---
 
-## 🚀 Key Contributions
+## 🚀 Open Source Contributions
 
 ### 🟢 RUXAILAB
 * **PR #2010** *(MERGED)* — Fixed *status filter dropdown interaction bug* (Studies page)
