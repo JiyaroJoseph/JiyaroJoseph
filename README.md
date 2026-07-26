@@ -10,6 +10,18 @@ Frontend Developer focused on **UI reliability, usability systems, and interacti
 
 ---
 
+## 🏆 Achievements
+
+- 🥈 Finalist – **TechSprint (Google)**
+- 🎯 Winner – **PSCDL 2026** (Persistent Scene Change Detection Challenge)
+- 🌍 **Millennium Fellow 2024** – Millennium Campus Network (United Nations Academic Impact)
+- 💻 Contributed to **RUXAILAB** and **FOSSASIA** open-source projects
+- ✍️ Published self-improvement articles on **Medium** (Illumination)
+   📄 Submitted an IEEE conference paper on a wearable directional sound assistive system.
+  
+---
+
+
 ## 🚀 Open Source Contributions
 
 ### 🟢 RUXAILAB
