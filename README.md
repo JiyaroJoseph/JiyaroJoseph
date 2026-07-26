@@ -28,9 +28,11 @@ Frontend Developer focused on **UI reliability, usability systems, and interacti
 * **PR #2010** *(MERGED)* — Fixed status filter dropdown not opening on click (Studies page)
   → Root cause: an internal chip element was intercepting clicks meant for the dropdown. Fixed with a scoped `pointer-events: none` CSS rule; also added a `<label>`/`id` association and `aria-label` for accessibility.
   https://github.com/uramakilab/remote-usability-lab/pull/2010
+  
 * **PR #1997** *(MERGED)* — Fixed *incorrect redirection in issue templates*
   → Bug Report and Feature Request links both pointed to the generic "new issue" page; added `?template=` query params so each link opens the correct form directly.
   https://github.com/uramakilab/remote-usability-lab/pull/1997
+  
 * **PR #1984** — Analyzed *hyperlink popup overflow in editor*
   → Flagged a layout overflow bug in the editor's hyperlink popup and suggested a fix direction.
   https://github.com/uramakilab/remote-usability-lab/pull/1984
