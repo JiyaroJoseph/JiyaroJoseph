@@ -4,8 +4,8 @@ Frontend Developer focused on **UI reliability, usability systems, and interacti
 ---
 
 ## 💫 About Me
-* 🔭 Contributed to **RUXAILAB** and **FOSSASIA** — open source, UI behavior and usability workflows
-* 🛠 Focused on **interaction bugs, event handling issues, and edge-case debugging**
+* 🔭 Made simple contributions to **RUXAILAB** and **FOSSASIA** — open source, UI behavior and usability workflows
+* 🛠 Focused on **interaction bugs and edge-case debugging**
 * 🧠 Interested in **UI correctness, testing, and real-world system reliability**
 
 ---
@@ -17,7 +17,7 @@ Frontend Developer focused on **UI reliability, usability systems, and interacti
 - 🌍 **Millennium Fellow 2024** – Millennium Campus Network (United Nations Academic Impact)
 - 💻 Contributed to **RUXAILAB** and **FOSSASIA** open-source projects
 - ✍️ Published self-improvement articles on **Medium** (Illumination)
-   📄 Submitted an IEEE conference paper on a wearable directional sound assistive system.
+- 📄 Submitted an IEEE conference paper on a wearable directional sound assistive system.
   
 ---
 
@@ -25,14 +25,14 @@ Frontend Developer focused on **UI reliability, usability systems, and interacti
 ## 🚀 Open Source Contributions
 
 ### 🟢 RUXAILAB
-* **PR #2010** *(MERGED)* — Fixed *status filter dropdown interaction bug* (Studies page)
-  → Resolved click handling issue where label clicks failed to trigger dropdown (event handling flaw)
+* **PR #2010** *(MERGED)* — Fixed status filter dropdown not opening on click (Studies page)
+  → Root cause: an internal chip element was intercepting clicks meant for the dropdown. Fixed with a scoped `pointer-events: none` CSS rule; also added a `<label>`/`id` association and `aria-label` for accessibility.
   https://github.com/uramakilab/remote-usability-lab/pull/2010
 * **PR #1997** *(MERGED)* — Fixed *incorrect redirection in issue templates*
-  → Corrected broken links in `CONTRIBUTING.md`, improving developer workflow for reporting issues
+  → Bug Report and Feature Request links both pointed to the generic "new issue" page; added `?template=` query params so each link opens the correct form directly.
   https://github.com/uramakilab/remote-usability-lab/pull/1997
 * **PR #1984** — Analyzed *hyperlink popup overflow in editor*
-  → Identified layout constraint issue affecting UI boundary handling and proposed fix approach
+  → Flagged a layout overflow bug in the editor's hyperlink popup and suggested a fix direction.
   https://github.com/uramakilab/remote-usability-lab/pull/1984
 
 ---
