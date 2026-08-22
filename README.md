@@ -35,7 +35,7 @@ An Eisenhower Matrix productivity app focused on being reliable and intuitive to
 
 🌐 **Live Demo:** https://eisenly-smart-to-do.vercel.app/
 
-<h2>&#8203;</h2>
+##
 
 ### 🎧 Wearable Directional Sound Assistive System
 
@@ -43,7 +43,7 @@ IEEE paper, presented at ICTEST 2026. Built with ESP32 and an INMP441 MEMS mic a
 
 Uses hybrid RMS-TDOA sound localization to provide directional audio cues through vibration and LED feedback.
 
-<h2>&#8203;</h2>
+##
 
 ### 🧵 DEBRIEF — Meeting Intelligence Hub
 
