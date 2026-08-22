@@ -21,7 +21,6 @@ Final-year ECE student. I work across Web development, Machine Learning, Compute
 
 ### 🔬 PSCDL 2026 — Persistent Scene Change Detection
 Winning solution for Vehant Technologies' NCVPRIPG-affiliated challenge on detecting persistent scene changes.
-
 🔗 Repo: https://github.com/josephshibumathew/pscdl-2026
 
 ### 🟣 Eisenly — Eisenhower Matrix Task Manager
