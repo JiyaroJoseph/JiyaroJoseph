@@ -77,8 +77,9 @@ An Eisenhower Matrix productivity application focused on building a reliable and
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=JiyaroJoseph&theme=tokyonight&hide_border=true)
+<h2>📊 GitHub Stats</h2>
+
+<img src="https://streak-stats.demolab.com/?user=JiyaroJoseph&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 ---
 
