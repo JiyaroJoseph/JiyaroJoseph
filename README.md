@@ -25,7 +25,7 @@ Winning solution for Vehant Technologies' NCVPRIPG-affiliated challenge on detec
 
 🔗 **Repo:** https://github.com/josephshibumathew/pscdl-2026
 
-<h2 style="margin-top:0;margin-bottom:0;">&#8203;</h2>
+<h2><span style="display:block; height:0; margin:0; padding:0;">&#8203;</span></h2>
 
 ### 🟣 Eisenly — Eisenhower Matrix Task Manager
 
