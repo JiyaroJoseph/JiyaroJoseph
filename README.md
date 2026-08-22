@@ -25,7 +25,7 @@ Winning solution for Vehant Technologies' NCVPRIPG-affiliated challenge on detec
 
 🔗 **Repo:** https://github.com/josephshibumathew/pscdl-2026
 
-<hr style="border: 0; border-top: 1px solid #30363d;">
+<h2>&#8203;</h2>
 
 ### 🟣 Eisenly — Eisenhower Matrix Task Manager
 
@@ -35,7 +35,7 @@ An Eisenhower Matrix productivity app focused on being reliable and intuitive to
 
 🌐 **Live Demo:** https://eisenly-smart-to-do.vercel.app/
 
-<hr style="border: 0; border-top: 1px solid #30363d;">
+<h2>&#8203;</h2>
 
 ### 🎧 Wearable Directional Sound Assistive System
 
@@ -43,7 +43,7 @@ IEEE paper, presented at ICTEST 2026. Built with ESP32 and an INMP441 MEMS mic a
 
 Uses hybrid RMS-TDOA sound localization to provide directional audio cues through vibration and LED feedback.
 
-<hr style="border: 0; border-top: 1px solid #30363d;">
+<h2>&#8203;</h2>
 
 ### 🧵 DEBRIEF — Meeting Intelligence Hub
 
