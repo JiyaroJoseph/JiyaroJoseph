@@ -1,43 +1,55 @@
 # Hi, I'm Jiyaro Joseph 👋
-Frontend Developer focused on **UI reliability, usability systems, and interaction correctness**.
+Final-year ECE student. I work across web development, Machine Learning, Computer Vision, applied signal processing, and embedded systems.
 
 ---
-
 ## 💫 About Me
-* 🔭 Made simple contributions to **RUXAILAB** and **FOSSASIA** — open source, UI behavior and usability workflows
-* 🛠 Focused on **interaction bugs and edge-case debugging**
-* 🧠 Interested in **UI correctness, testing, and real-world system reliability**
+* 🎓 Final-year B.Tech ECE, interested in going in the software direction
+* 🔭 Built projects in web apps, computer vision, and embedded firmware
+* 🛠 Comfortable with frontend work; learning backend and Node.js
+* 🧠 Interested in system reliability and applying ML to real-world signal/vision problems
 
 ---
-
 ## 🏆 Achievements
+* 🎯 **Winner – PSCDL 2026** (Persistent Scene Change Detection Challenge, Vehant Technologies / NCVPRIPG) — presented at NCVPRIPG 2026, LNMIIT Jaipur
+* 📄 **IEEE Paper — Presented at ICTEST 2026**: wearable directional sound assistive system (ESP32, INMP441 MEMS mics, hybrid RMS-TDOA signal processing, vibrotactile + LED feedback) *(Xplore indexing pending)*
+* 🥈 Finalist – TechSprint (Google)
+* 🌍 Millennium Fellow 2024 – Millennium Campus Network (United Nations Academic Impact)
+* 💻 Open-source contributions to RUXAILAB and FOSSASIA
 
-- 🎯 Winner – **PSCDL 2026** (Persistent Scene Change Detection Challenge)
-- 🥈 Finalist – **TechSprint (Google)**
-- 🌍 **Millennium Fellow 2024** – Millennium Campus Network (United Nations Academic Impact)
-- 💻 Contributed to **RUXAILAB** and **FOSSASIA** open-source projects
-- ✍️ Published self-improvement articles on **Medium** (Illumination)
-- 📄 Submitted an IEEE conference paper on a wearable directional sound assistive system.
-  
 ---
+## 🚀 Featured Work
 
+### 🔬 PSCDL 2026 — Persistent Scene Change Detection
+Winning solution for Vehant Technologies' NCVPRIPG-affiliated challenge on detecting persistent scene changes.
+🔗 Repo: https://github.com/josephshibumathew/pscdl-2026
 
-## 🚀 Open Source Contributions
+### 🟣 Eisenly — Eisenhower Matrix Task Manager
+An Eisenhower Matrix productivity app focused on being reliable and intuitive to use.
+**Areas of work:** React architecture and component design, UI interaction correctness, state management and persistence, responsive design and accessibility.
+🌐 Live Demo: [https://eisenly-smart-to-do.vercel.app](https://eisenly-smart-to-do.vercel.app/) · [Repo](https://github.com/JiyaroJoseph/Eisenly-SmartToDo)
+
+### 🎧 Wearable Directional Sound Assistive System
+IEEE paper, presented at ICTEST 2026. Built with ESP32 and an INMP441 MEMS mic array. Uses hybrid RMS-TDOA sound localization to give directional audio cues through vibration and LED feedback.
+
+### 🧵 DEBRIEF — Meeting Intelligence Hub
+Built for the Cymonic.ai hackathon. React and Tailwind frontend, with the Claude API used to summarize meetings.
+🔗 Repo: https://github.com/JiyaroJoseph/meeting-intelligence-hub 
+
+---
+## 🌱 Open Source Contributions
 
 ### 🟢 RUXAILAB
 * **PR #2010** *(MERGED)* — Fixed status filter dropdown not opening on click (Studies page)
   → Root cause: an internal chip element was intercepting clicks meant for the dropdown. Fixed with a scoped `pointer-events: none` CSS rule; also added a `<label>`/`id` association and `aria-label` for accessibility.
   https://github.com/uramakilab/remote-usability-lab/pull/2010
-  
+
 * **PR #1997** *(MERGED)* — Fixed *incorrect redirection in issue templates*
   → Bug Report and Feature Request links both pointed to the generic "new issue" page; added `?template=` query params so each link opens the correct form directly.
   https://github.com/uramakilab/remote-usability-lab/pull/1997
-  
+
 * **PR #1984** — Analyzed *hyperlink popup overflow in editor*
   → Flagged a layout overflow bug in the editor's hyperlink popup and suggested a fix direction.
   https://github.com/uramakilab/remote-usability-lab/pull/1984
-
----
 
 ### 🟡 FOSSASIA
 * **PR #918** — Fixed *broken CI badge*
@@ -45,49 +57,22 @@ Frontend Developer focused on **UI reliability, usability systems, and interacti
   https://github.com/fossasia/fossasia.org/pull/918
 
 ---
-
-## 🚧 Currently Building
-
-### 🟣 Eisenly
-An Eisenhower Matrix productivity application focused on building a reliable and intuitive task management experience.
-
-**Areas of work:**
-- React architecture and component design
-- UI interaction correctness
-- State management and persistence
-- Responsive design and accessibility
-- Continuous feature development and refinement
-
-🌐 Live Demo: [https://eisenly-smart-to-do.vercel.app](https://eisenly-smart-to-do.vercel.app/)
-
----
-
-## 🧠 Technical Strengths
-* Frontend Debugging (DOM events, state issues, UI edge cases)
-* Writing clean, maintainable fixes
-* Understanding usability + UX behavior
-
----
-
 ## 🛠 Tech Stack
-* Languages: JavaScript, Python
-* Frontend: React.js, Next.js, Vue.js, HTML, CSS, Tailwind CSS
-* Learning: Node.js
-* Tools: Git, GitHub, VS Code
+**Languages:** Python, JavaScript
+**Frontend:** React.js, Next.js, HTML, CSS, Tailwind
+**Learning:** Node.js, backend development, embedded systems, ML, CV
+**AI-assisted dev tools:** Cursor, GitHub Copilot, Devin, Antigravity, OpenCode
+**Tools:** Git, GitHub, VS Code
 
 ---
-
 <h2>📊 GitHub Stats</h2>
-
 <img src="https://streak-stats.demolab.com/?user=JiyaroJoseph&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 ---
-
-## 🎯 Current Goal
-Deepening full-stack skills — currently learning **Node.js** while building on my frontend foundation.
+## 🎯 Currently
+Applying for SWE internships and new-grad roles. Building practical projects across both EC and CS.
 
 ---
-
 ## 🤝 Connect
 * LinkedIn: https://www.linkedin.com/in/jiyaro-joseph/
 * Medium: https://medium.com/@jiyarojoseph
