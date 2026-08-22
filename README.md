@@ -21,18 +21,23 @@ Final-year ECE student. I work across Web development, Machine Learning, Compute
 
 ### 🔬 PSCDL 2026 — Persistent Scene Change Detection
 Winning solution for Vehant Technologies' NCVPRIPG-affiliated challenge on detecting persistent scene changes.
+
 🔗 Repo: https://github.com/josephshibumathew/pscdl-2026
+
 
 ### 🟣 Eisenly — Eisenhower Matrix Task Manager
 An Eisenhower Matrix productivity app focused on being reliable and intuitive to use.
 **Areas of work:** React architecture and component design, UI interaction correctness, state management and persistence, responsive design and accessibility.
-🌐 Live Demo: [https://eisenly-smart-to-do.vercel.app](https://eisenly-smart-to-do.vercel.app/) · [Repo](https://github.com/JiyaroJoseph/Eisenly-SmartToDo)
+🌐 Live Demo: [https://eisenly-smart-to-do.vercel.app](https://eisenly-smart-to-do.vercel.app/)
+
 
 ### 🎧 Wearable Directional Sound Assistive System
 IEEE paper, presented at ICTEST 2026. Built with ESP32 and an INMP441 MEMS mic array. Uses hybrid RMS-TDOA sound localization to give directional audio cues through vibration and LED feedback.
 
+
 ### 🧵 DEBRIEF — Meeting Intelligence Hub
 Built for the Cymonic.ai hackathon. React and Tailwind frontend, with the Claude API used to summarize meetings.
+
 🔗 Repo: https://github.com/JiyaroJoseph/meeting-intelligence-hub 
 
 ---
@@ -59,9 +64,13 @@ Built for the Cymonic.ai hackathon. React and Tailwind frontend, with the Claude
 ---
 ## 🛠 Tech Stack
 **Languages:** Python, JavaScript
+
 **Frontend:** React.js, Next.js, HTML, CSS, Tailwind
+
 **Learning:** Node.js, backend development, embedded systems, ML, CV
+
 **AI-assisted dev tools:** Cursor, GitHub Copilot, Devin, Antigravity, OpenCode
+
 **Tools:** Git, GitHub, VS Code
 
 ---
