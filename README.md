@@ -1,5 +1,5 @@
 # Hi, I'm Jiyaro Joseph 👋
-Final-year ECE student. I work across web development, Machine Learning, Computer Vision, applied signal processing, and embedded systems.
+Final-year ECE student. I work across Web development, Machine Learning, Computer Vision, applied signal processing, and embedded systems.
 
 ---
 ## 💫 About Me
