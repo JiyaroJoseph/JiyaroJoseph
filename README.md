@@ -20,25 +20,34 @@ Final-year ECE student. I work across Web development, Machine Learning, Compute
 ## 🚀 Featured Work
 
 ### 🔬 PSCDL 2026 — Persistent Scene Change Detection
+
 Winning solution for Vehant Technologies' NCVPRIPG-affiliated challenge on detecting persistent scene changes.
 
-🔗 Repo: https://github.com/josephshibumathew/pscdl-2026
+🔗 **Repo:** https://github.com/josephshibumathew/pscdl-2026
 
 
 ### 🟣 Eisenly — Eisenhower Matrix Task Manager
+
 An Eisenhower Matrix productivity app focused on being reliable and intuitive to use.
-**Areas of work:** React architecture and component design, UI interaction correctness, state management and persistence, responsive design and accessibility.
-🌐 Live Demo: [https://eisenly-smart-to-do.vercel.app](https://eisenly-smart-to-do.vercel.app/)
+
+**Areas of work:** React architecture and component design, UI interaction correctness, state management and persistence, responsive design, and accessibility.
+
+🌐 **Live Demo:** https://eisenly-smart-to-do.vercel.app/
 
 
 ### 🎧 Wearable Directional Sound Assistive System
-IEEE paper, presented at ICTEST 2026. Built with ESP32 and an INMP441 MEMS mic array. Uses hybrid RMS-TDOA sound localization to give directional audio cues through vibration and LED feedback.
+
+IEEE paper, presented at ICTEST 2026. Built with ESP32 and an INMP441 MEMS mic array.
+
+Uses hybrid RMS-TDOA sound localization to provide directional audio cues through vibration and LED feedback.
 
 
 ### 🧵 DEBRIEF — Meeting Intelligence Hub
+
 Built for the Cymonic.ai hackathon. React and Tailwind frontend, with the Claude API used to summarize meetings.
 
-🔗 Repo: https://github.com/JiyaroJoseph/meeting-intelligence-hub 
+🔗 **Repo:** https://github.com/JiyaroJoseph/meeting-intelligence-hub
+
 
 ---
 ## 🌱 Open Source Contributions
@@ -76,10 +85,6 @@ Built for the Cymonic.ai hackathon. React and Tailwind frontend, with the Claude
 ---
 <h2>📊 GitHub Stats</h2>
 <img src="https://streak-stats.demolab.com/?user=JiyaroJoseph&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
----
-## 🎯 Currently
-Applying for SWE internships and new-grad roles. Building practical projects across both EC and CS.
 
 ---
 ## 🤝 Connect
