@@ -2,19 +2,12 @@
 Final-year ECE student. I work across Web development, Machine Learning, Computer Vision, applied signal processing, and embedded systems.
 
 ---
-## 💫 About Me
-* 🎓 Final-year B.Tech ECE, interested in going in the software direction
-* 🔭 Built projects in web apps, computer vision, and embedded firmware
-* 🛠 Comfortable with frontend work; learning backend and Node.js
-* 🧠 Interested in system reliability and applying ML to real-world signal/vision problems
-
----
 ## 🏆 Achievements
-* 🎯 **Winner – PSCDL 2026** (Persistent Scene Change Detection Challenge, Vehant Technologies / NCVPRIPG) — presented at NCVPRIPG 2026, LNMIIT Jaipur
-* 📄 **IEEE Paper — Presented at ICTEST 2026**: wearable directional sound assistive system (ESP32, INMP441 MEMS mics, hybrid RMS-TDOA signal processing, vibrotactile + LED feedback) *(Xplore indexing pending)*
+
+* 🎯 **Winner – PSCDL 2026** — Persistent Scene Change Detection Challenge, Vehant Technologies / NCVPRIPG
+* 📄 **IEEE Paper — Presented at ICTEST 2026** — Wearable Directional Sound Assistive System
 * 🥈 Finalist – TechSprint (Google)
-* 🌍 Millennium Fellow 2024 – Millennium Campus Network (United Nations Academic Impact)
-* 💻 Open-source contributions to RUXAILAB and FOSSASIA
+* 🌍 Millennium Fellow 2024 – Millennium Campus Network / United Nations Academic Impact
 
 ---
 ## 🚀 Featured Work
