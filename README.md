@@ -57,10 +57,6 @@ Built for the Cymonic.ai hackathon. React and Tailwind frontend, with the Claude
   → Bug Report and Feature Request links both pointed to the generic "new issue" page; added `?template=` query params so each link opens the correct form directly.
   https://github.com/uramakilab/remote-usability-lab/pull/1997
 
-* **PR #1984** — Analyzed *hyperlink popup overflow in editor*
-  → Flagged a layout overflow bug in the editor's hyperlink popup and suggested a fix direction.
-  https://github.com/uramakilab/remote-usability-lab/pull/1984
-
 ### 🟡 FOSSASIA
 * **PR #918** — Fixed *broken CI badge*
   → Replaced deprecated Travis CI with GitHub Actions for accurate build status display
