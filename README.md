@@ -76,7 +76,7 @@ Built for the Cymonic.ai hackathon. React and Tailwind frontend, with the Claude
 
 ---
 <h2>📊 GitHub Stats</h2>
-<img src="https://streak-stats.demolab.com/?user=JiyaroJoseph&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=JiyaroJoseph" alt="GitHub Streak" />
 
 ---
 ## 🤝 Connect
