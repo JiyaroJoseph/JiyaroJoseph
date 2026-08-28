@@ -20,7 +20,7 @@ Winning solution for Vehant Technologies' NCVPRIPG-affiliated challenge on detec
 
 ##
 
-### 🟣 Eisenly — Eisenhower Matrix Task Manager
+### 🟣 Eisenly — Eisenhower Matrix Task Manager *(WORK IN PROGRESS)*
 
 An Eisenhower Matrix productivity app focused on being reliable and intuitive to use.
 
