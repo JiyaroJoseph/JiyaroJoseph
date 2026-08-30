@@ -4,7 +4,7 @@ Final-year ECE student. I work across Web development, Machine Learning, Compute
 ---
 ## 🏆 Achievements
 
-* 🎯 **Winner – PSCDL 2026**  — Persistent Scene Change Detection Computer Vision Challenge, Vehant Technologies / NCVPRIPG
+* 🎯 **Winner – PSCDL 2026**  — Persistent Scene Change Detection Computer Vision Challenge, Vehant Technologies
 * 📄 **IEEE Paper — Presented at ICTEST 2026** — Wearable Directional Sound Assistive System
 * 🥈 Finalist – TechSprint (Google Hackathon)
 * 🌍 Millennium Fellow 2024 – Millennium Campus Network / United Nations Academic Impact
