@@ -14,6 +14,7 @@ Final-year ECE student. I work across Web development, Machine Learning, Compute
 
 ### 🔬 PSCDL 2026 — Persistent Scene Change Detection
 Winning solution for the Computer Vision Challenge on detecting persistent scene changes.
+
 🔗 **Repo:** https://github.com/josephshibumathew/pscdl-2026
 
 ##
@@ -21,12 +22,14 @@ Winning solution for the Computer Vision Challenge on detecting persistent scene
 ### 🟣 Eisenly — Eisenhower Matrix Task Manager *( Work In Progress )*
 Built a React task management application with multi-project support, CRUD operations, Eisenhower Matrix prioritization, 
 date-based task scheduling, and Local Storage persistence.
+
 🌐 **Live Demo:** https://eisenly-smart-to-do.vercel.app/
 
 ##
 
 ### 🌼 Code-a-Pookalam
 Python-generated Onam flower arrangement using golden-angle spiral math.
+
 🔗 https://github.com/JiyaroJoseph/code-a-pookalam
 
 ##
@@ -38,6 +41,7 @@ IEEE paper, presented at ICTEST 2026. Helps users with hearing loss locate sound
 
 ### 🧵 DEBRIEF — Meeting Intelligence Hub
 Built for the Cymonic.ai hackathon. React and Tailwind frontend, with the Claude API used to summarize meetings.
+
 🔗 **Repo:** https://github.com/JiyaroJoseph/meeting-intelligence-hub
 
 
