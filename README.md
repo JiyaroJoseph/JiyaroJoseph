@@ -26,7 +26,7 @@ date-based task scheduling, and Local Storage persistence.
 ##
 
 ### 🌼 Code-a-Pookalam
-Python-generated Onam flower arrangement using golden-angle spiral math.
+Built for the Code-a-Pookalam contest. Python-generated Onam flower arrangement using golden-angle spiral math.
 
 🔗 https://github.com/JiyaroJoseph/code-a-pookalam
 
