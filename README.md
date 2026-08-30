@@ -4,9 +4,9 @@ Final-year ECE student. I work across Web development, Machine Learning, Compute
 ---
 ## 🏆 Achievements
 
-* 🎯 **Winner – PSCDL 2026** — Persistent Scene Change Detection Challenge, Vehant Technologies / NCVPRIPG
+* 🎯 **Winner – PSCDL 2026**  — Persistent Scene Change Detection Computer Vision Challenge, Vehant Technologies / NCVPRIPG
 * 📄 **IEEE Paper — Presented at ICTEST 2026** — Wearable Directional Sound Assistive System
-* 🥈 Finalist – TechSprint (Google)
+* 🥈 Finalist – TechSprint (Google Hackathon)
 * 🌍 Millennium Fellow 2024 – Millennium Campus Network / United Nations Academic Impact
 
 ---
@@ -14,7 +14,7 @@ Final-year ECE student. I work across Web development, Machine Learning, Compute
 
 ### 🔬 PSCDL 2026 — Persistent Scene Change Detection
 
-Winning solution for Vehant Technologies' NCVPRIPG-affiliated challenge on detecting persistent scene changes.
+Winning solution for the Computer Vision Challenge on detecting persistent scene changes.
 
 🔗 **Repo:** https://github.com/josephshibumathew/pscdl-2026
 
@@ -22,9 +22,8 @@ Winning solution for Vehant Technologies' NCVPRIPG-affiliated challenge on detec
 
 ### 🟣 Eisenly — Eisenhower Matrix Task Manager *( Work In Progress )*
 
-An Eisenhower Matrix productivity app focused on being reliable and intuitive to use.
-
-**Areas of work:** React architecture and component design, UI interaction correctness, state management and persistence, responsive design, and accessibility.
+Built a React task management application with multi-project support, CRUD operations, Eisenhower Matrix prioritization, 
+date-based task scheduling, and Local Storage persistence.
 
 🌐 **Live Demo:** https://eisenly-smart-to-do.vercel.app/
 
@@ -32,9 +31,7 @@ An Eisenhower Matrix productivity app focused on being reliable and intuitive to
 
 ### 🎧 Wearable Directional Sound Assistive System
 
-IEEE paper, presented at ICTEST 2026. Built with ESP32 and an INMP441 MEMS mic array.
-
-Uses hybrid RMS-TDOA sound localization to provide directional audio cues through vibration and LED feedback.
+IEEE paper, presented at ICTEST 2026. A wearable assistive device that helps anyone with poor hearing ability or Single Sided Deafness detect the direction of an incoming sound and locate it through vibration and LED feedback.
 
 ##
 
